@@ -1,0 +1,17 @@
+#fondo{
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+#fondo div{
+	border: solid 1px #000000;
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
